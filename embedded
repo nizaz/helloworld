@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+int i,j=1;
+print("enter no");
+scanf("%d,&i);
+j=i++;
+printf(i and j is",i,j);
+return 0;
+}
